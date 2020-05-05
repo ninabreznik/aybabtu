@@ -1,2 +1,3 @@
 # aybabtu
-modified homebase to host and pin dats
+
+aybabtu uses mana (canary network) - expect chaos 
